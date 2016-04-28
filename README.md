@@ -1,4 +1,6 @@
 # hello-world-branch
 Ajout texte depuis le main
 
-Ce fichier a ï¿½tï¿½ modifiï¿½ depuis mon PC local
+Ce fichier a été modifié depuis mon PC local
+
+Deuxieme modification qui passe pas
